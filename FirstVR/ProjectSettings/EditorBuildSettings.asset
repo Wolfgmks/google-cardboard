@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9c40a28f376901641a4f471f7480fe10,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9a18348228a87fa40aac78781321347c,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a899523ce71213240b9bb4c00e8e5e24,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 8f9a61c6468822547ba4998b9fec57f1,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: aec88a82d67c09c4c9a44b3d966480dc,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b42ffed594091dd4a94d9273775a3932,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 31b83584ff3dc8f46b1c8ea4a48877f9,
+      type: 2}
